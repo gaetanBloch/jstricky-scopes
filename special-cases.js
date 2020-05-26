@@ -14,7 +14,7 @@ for (let j = 0; j < 2; j++) {
 
 try {
   throw new Error();
-} catch (error){
+} catch (error) {
   console.log(error);
 }
 
