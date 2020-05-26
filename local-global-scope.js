@@ -3,7 +3,7 @@ var globalAge = 31;
 
 function greet() {
 
-  // Local Scope
+  // Local Scope (function Scope)
   var localName = 'Gaetan';
 
   function printInfo() {
